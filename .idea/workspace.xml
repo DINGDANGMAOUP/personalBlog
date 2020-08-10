@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/fluid/source/img/Oblivion.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/fluid/source/img/ROCKSTAR.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/fluid/source/img/forest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/fluid/source/songs/DaBaby,Roddy Ricch - ROCKSTAR.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/fluid/source/songs/TheFatRat&amp;Lola Blanc - Oblivion.flac" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/fluid_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/fluid_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="完成基础" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ftXHmUjFcQTEziS7Z5OMFrGPG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,8 +70,16 @@
       <workItem from="1597047929412" duration="2225000" />
       <workItem from="1597051550553" duration="2030000" />
       <workItem from="1597065902753" duration="661000" />
-      <workItem from="1597067771112" duration="2024000" />
+      <workItem from="1597067771112" duration="2936000" />
     </task>
+    <task id="LOCAL-00001" summary="完成基础">
+      <created>1597069836347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597069836347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,10 +96,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成基础" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="396" y="103" key="SettingsEditor" timestamp="1597068374985">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="396" y="103" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1597068374985" />
+    <state x="419" y="188" key="Vcs.Push.Dialog.v2" timestamp="1597069842536">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="419" y="188" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1597069842536" />
   </component>
 </project>
