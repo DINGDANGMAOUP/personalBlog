@@ -50,6 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -79,6 +80,8 @@
       <workItem from="1597218022548" duration="1489000" />
       <workItem from="1597221228653" duration="324000" />
       <workItem from="1597223867151" duration="2489000" />
+      <workItem from="1602320577200" duration="264000" />
+      <workItem from="1602321436871" duration="1005000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础">
       <created>1597069836347</created>
@@ -142,5 +145,9 @@
     </state>
     <state x="419" y="156" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597224523866" />
     <state x="419" y="188" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1597069842536" />
+    <state x="842" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602321866662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602321866662" />
   </component>
 </project>
