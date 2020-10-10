@@ -267,17 +267,17 @@ disqus:
 # You can get yout ClientID and ClientSecret from https://github.com/settings/applications/new
 # More info available at https://github.com/gitalk/gitalk#options
 gitalk:
-  clientID: d545e13f9637bf55f995                    # GitHub Application Client ID
-  clientSecret: 5e2469bf118df61f3b2b15d6ab1f599a13870a59              # GitHub Application Client Secret
-  repo: blog_comment                        # The repo to store comments
-  owner:  DINGDANGMAOUP                      # GitHub repository owner. Can be personal user or organization.
-  admin:  DINGDANGMAOUP                      # GitHub repo owner and collaborators, only these guys can initialize github issues, should be like "['admin']" or "['admin1','admin2']"
-  id: indow.location.pathname         # The unique id of the page. Length must less than 50.
+  clientID: `d545e13f9637bf55f995`                    # GitHub Application Client ID
+  clientSecret: `5e2469bf118df61f3b2b15d6ab1f599a13870a59`              # GitHub Application Client Secret
+  repo: `blog_comment`                        # The repo to store comments
+  owner:  'DINGDANGMAOUP'                      # GitHub repository owner. Can be personal user or organization.
+  admin:  "['DINGDANGMAOUP']"                      # GitHub repo owner and collaborators, only these guys can initialize github issues, should be like "['admin']" or "['admin1','admin2']"
+  id: 'indow.location.pathname'         # The unique id of the page. Length must less than 50.
   language: zh-CN               # Localization language key, en, zh-CN and zh-TW are currently available.
   labels: "['Gitalk']"          # GitHub issue labels.
   perPage: 15                   # Pagination size, with maximum 100.
   pagerDirection: last          # Comment sorting direction, available values are last and first.
-  distractionFreeMode: false    # Facebook-like distraction free mode.
+  distractionFreeMode: true    # Facebook-like distraction free mode.
   createIssueManually: true     # By default, Gitalk will create a corresponding github issue for your every single page automatically when the logined user is belong to the admin users. You can create it manually by setting this option to true.
 
 # Valine
