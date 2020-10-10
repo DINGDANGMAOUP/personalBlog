@@ -267,14 +267,14 @@ disqus:
 # You can get yout ClientID and ClientSecret from https://github.com/settings/applications/new
 # More info available at https://github.com/gitalk/gitalk#options
 gitalk:
-  clientID: `d545e13f9637bf55f995`                    # GitHub Application Client ID
-  clientSecret: `5e2469bf118df61f3b2b15d6ab1f599a13870a59`              # GitHub Application Client Secret
-  repo: `blog_comment`                        # The repo to store comments
+  clientID: 'd545e13f9637bf55f995'                    # GitHub Application Client ID
+  clientSecret: '5e2469bf118df61f3b2b15d6ab1f599a13870a59'              # GitHub Application Client Secret
+  repo: 'blog_comment'                        # The repo to store comments
   owner:  'DINGDANGMAOUP'                      # GitHub repository owner. Can be personal user or organization.
   admin:  "['DINGDANGMAOUP']"                      # GitHub repo owner and collaborators, only these guys can initialize github issues, should be like "['admin']" or "['admin1','admin2']"
-  id: 'location.pathname'         # The unique id of the page. Length must less than 50.
+  id: 'location.href'         # The unique id of the page. Length must less than 50.
   language: zh-CN               # Localization language key, en, zh-CN and zh-TW are currently available.
-  labels:          #"['Gitalk']"          # GitHub issue labels.
+  labels:  "['Gitalk']"        #"['Gitalk']"          # GitHub issue labels.
   perPage: 15                   # Pagination size, with maximum 100.
   pagerDirection: last          # Comment sorting direction, available values are last and first.
   distractionFreeMode: true    # Facebook-like distraction free mode.
