@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="add_fix_gitalk" />
+    <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="add_fix_gitalk">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -56,6 +60,23 @@
       <recent name="$PROJECT_DIR$/themes/fluid/source/songs" />
       <recent name="F:\dzh-docment\git_blog\personal_blog\myBolg\themes\fluid\source\img" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.server" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -79,6 +100,16 @@
       <workItem from="1597223867151" duration="2489000" />
       <workItem from="1602320577200" duration="264000" />
       <workItem from="1602321436871" duration="2504000" />
+      <workItem from="1604481845681" duration="508000" />
+      <workItem from="1604483033609" duration="297000" />
+      <workItem from="1604539131416" duration="931000" />
+      <workItem from="1604540441303" duration="1099000" />
+      <workItem from="1604544391691" duration="101000" />
+      <workItem from="1604544531739" duration="137000" />
+      <workItem from="1604557894946" duration="1285000" />
+      <workItem from="1605247975623" duration="1307000" />
+      <workItem from="1605253128073" duration="12000" />
+      <workItem from="1605492546132" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础">
       <created>1597069836347</created>
@@ -155,10 +186,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="add_fix_gitalk" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="396" y="103" key="SettingsEditor" timestamp="1597068374985">
-      <screen x="0" y="31" width="1920" height="1049" />
+    <state x="396" y="108" width="992" height="736" key="SettingsEditor" timestamp="1604544565847">
+      <screen x="0" y="36" width="1920" height="1044" />
     </state>
     <state x="396" y="103" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1597068374985" />
+    <state x="396" y="108" width="992" height="736" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1604544565847" />
     <state x="419" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602322755036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -168,5 +200,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="842" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602321866662" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
