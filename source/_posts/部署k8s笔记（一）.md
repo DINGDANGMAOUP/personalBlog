@@ -3,7 +3,7 @@ author: kuroneko
 tags:
   - 'k8s '
   - kubernetes
-categories: []
+categories: linux
 date: 2020-11-16 10:16:00
 ---
 #### 前言
