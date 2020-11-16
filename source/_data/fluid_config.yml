@@ -409,3 +409,7 @@ links:
       link: 'https://hexo.fluid-dev.com/docs/example/',
       image: '/img/favicon.png'
     }
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
