@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="keep one's diary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/fluid/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/fluid/layout/_partial/head.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +110,7 @@
       <workItem from="1605247975623" duration="1307000" />
       <workItem from="1605253128073" duration="12000" />
       <workItem from="1605492546132" duration="14506000" />
-      <workItem from="1605516699144" duration="719000" />
+      <workItem from="1605516699144" duration="1782000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础">
       <created>1597069836347</created>
@@ -220,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605516190201</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="keep one's diary">
+      <created>1605517446498</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605517446498</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +262,10 @@
     <state x="419" y="156" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602322755036" />
     <state x="419" y="188" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1597069842536" />
     <state x="419" y="193" key="Vcs.Push.Dialog.v2/0.36.1920.1044@0.36.1920.1044" timestamp="1605496615999" />
+    <state x="488" y="179" width="895" height="685" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605517189287">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="488" y="179" width="895" height="685" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.36.1920.1044@0.36.1920.1044" timestamp="1605517189287" />
     <state x="842" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602321866662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
