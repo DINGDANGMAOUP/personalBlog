@@ -21,7 +21,7 @@ DevOps (一)
 |------------   |node194   |   7.8        |harbor|
 |------------   |node79      |    7.8      |elkb|
 
----
+
 ##### 二,软件版本
 
 + Kubernetes v1.19.4
@@ -29,6 +29,6 @@ DevOps (一)
 + Harbor v2.1.1
 + elkb v?(<font color=red>待定</font>)
 
----
+
 + [<font color=blue>k8s架构图</font>](https://www.kubernetes.org.cn)
 ![k8s](https://www.kubernetes.org.cn/img/2016/10/20161028141542.jpg "k8s架构")
