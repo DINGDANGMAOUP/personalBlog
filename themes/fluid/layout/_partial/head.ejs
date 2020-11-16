@@ -8,6 +8,7 @@ if (page.title) {
 
 <head>
   <meta charset="UTF-8">
+  <meta name="baidu-site-verification" content="code-cyJaMdx7LC" />
   <link rel="apple-touch-icon" sizes="76x76" href="<%- url_for(theme.apple_touch_icon) %>">
   <link rel="icon" type="image/png" href="<%- url_for(theme.favicon) %>">
   <meta name="viewport"
@@ -25,3 +26,17 @@ if (page.title) {
   <%- partial('_partial/css.ejs') %>
   <%- js_ex(theme.static_prefix.internal_js, 'utils.js') %>
 </head>
+<script>
+  (function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+      bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+      bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+  })();
+</script>
