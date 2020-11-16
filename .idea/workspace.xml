@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="add_fix_gitalk">
-      <change beforePath="$PROJECT_DIR$/_admin-config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_admin-config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/fist.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/fist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/k8s-docker-harbor-jenkins-sonarqube搭建方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/k8s-docker-harbor-jenkins-sonarqube搭建方案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/部署k8s笔记（一）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/部署k8s笔记（一）.md" afterDir="false" />
+    <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="keep one's diary">
+      <change afterPath="$PROJECT_DIR$/themes/fluid/source/img/kuroneko1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/fluid_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/fluid_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/fluid/source/img/kuroneko1.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,8 +56,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\dzh-docment\github\personalBlog\source" />
+      <recent name="$PROJECT_DIR$/public/img" />
       <recent name="$PROJECT_DIR$/themes/fluid/source/img" />
+      <recent name="F:\dzh-docment\github\personalBlog\source" />
       <recent name="$PROJECT_DIR$/themes/fluid/source/songs" />
       <recent name="F:\dzh-docment\git_blog\personal_blog\myBolg\themes\fluid\source\img" />
     </key>
@@ -110,7 +111,7 @@
       <workItem from="1604557894946" duration="1285000" />
       <workItem from="1605247975623" duration="1307000" />
       <workItem from="1605253128073" duration="12000" />
-      <workItem from="1605492546132" duration="9508000" />
+      <workItem from="1605492546132" duration="12566000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础">
       <created>1597069836347</created>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605509134942</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="keep one's diary">
+      <created>1605511186065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605511186065</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +227,8 @@
     <MESSAGE value="域名绑定" />
     <MESSAGE value="add_fix_quick" />
     <MESSAGE value="add_fix_gitalk" />
-    <option name="LAST_COMMIT_MESSAGE" value="add_fix_gitalk" />
+    <MESSAGE value="keep one's diary" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep one's diary" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="108" width="992" height="736" key="SettingsEditor" timestamp="1604544565847">
