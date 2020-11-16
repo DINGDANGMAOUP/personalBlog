@@ -1,7 +1,7 @@
 title: 部署k8s笔记（一）
 author: kuroneko
 tags:
-  - 'k8s '
+  - 'k8s'
   - kubernetes
 categories: linux
 date: 2020-11-16 10:16:00
