@@ -1,3 +1,4 @@
+---
 title: docker创建镜像记录
 author: kuroneko
 tags:
@@ -8,6 +9,7 @@ tags:
 categories:
   - 备忘录
   - linux
+abbrlink: 42248
 date: 2020-11-16 15:11:00
 ---
 ### docker

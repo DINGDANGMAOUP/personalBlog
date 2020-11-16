@@ -1,3 +1,4 @@
+---
 title: k8s+docker+harbor+jenkins+sonarqube搭建方案
 author: kuroneko
 tags:
@@ -8,6 +9,7 @@ tags:
   - sonarqube
 categories:
   - 持续集成
+abbrlink: 51560
 date: 2020-11-16 13:26:00
 ---
 DevOps (一)
