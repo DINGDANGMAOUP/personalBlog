@@ -1,4 +1,3 @@
----
 title: 部署k8s笔记（一）
 author: kuroneko
 tags:
@@ -20,7 +19,7 @@ kubectl get nodes
 The connection to the server localhost:8080 was refused - did you specify the right host or port?
 ```
 针对此问题的解决方案
-将<font color=blue>master node</font> 目录：  /etc/kubernetes/admin.conf   分发至出现该问题的相同目录下
+将<font color=blue>master node</font> 目录：  /etc/kubernetes/admin.conf   分发至出现该问题<font color=blue>worker node</font>的相同目录下
 ```
 scp  /etc/kubernetes/admin.conf  user@IP_address:/etc/kubernetes/admin.conf
 ```

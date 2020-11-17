@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="keep one's diary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/fluid_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/fluid_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/k8s-docker-harbor-jenkins-sonarqube搭建方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/k8s-docker-harbor-jenkins-sonarqube搭建方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/部署k8s笔记（一）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/部署k8s笔记（一）.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,8 @@
       <workItem from="1605247975623" duration="1307000" />
       <workItem from="1605253128073" duration="12000" />
       <workItem from="1605492546132" duration="14506000" />
-      <workItem from="1605516699144" duration="5080000" />
+      <workItem from="1605516699144" duration="5980000" />
+      <workItem from="1605574955183" duration="2319000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础">
       <created>1597069836347</created>
@@ -245,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605521105217</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="keep one's diary">
+      <created>1605521813572</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605521813572</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

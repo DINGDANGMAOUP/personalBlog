@@ -66,7 +66,7 @@ custom_html: ''  # 自定义底部 HTML 内容（位于 footer 上方），也�
 web_analytics:  # 网页访问统计
   enable: true
   baidu: 656f32fdda7cdee149eae3cbfae2c074 # 百度统计的Key，参见 https://tongji.baidu.com/sc-web/10000033910/home/site/getjs?siteId=13751376 代码获取中 hm.js? 后边的字符串
-  google:  # Google统计的Tracking ID，参见 https://analytics.google.com/analytics/web/
+  google: G-EHMF5045LQ # Google统计的Tracking ID，参见 https://analytics.google.com/analytics/web/
   tencent:  # 腾讯统计的H5 App id，参见 https://mta.qq.com/h5/manage/ctr_app_manage (开启高级功能才有cid)
     sid:
     cid:
@@ -84,7 +84,7 @@ lazyload: # 对页面中的图片进行懒加载处理，可见范围外的图�
 
 daovoice:  # 在线客服 Daovoice 参考：http://dashboard.daovoice.io
   enable: true # 是否开启在线客服聊天
-  appid: '7ij455kmpeatc0wgsinxsll510kksyatag8dwy2x'  # 应用ID设置
+  appid: 'e7dc2700'  # 应用ID设置
 
 aplayer:  # 音乐播放器，注意不能与 hexo-tag-aplayer 插件共用
   enable: true
@@ -97,7 +97,7 @@ aplayer:  # 音乐播放器，注意不能与 hexo-tag-aplayer 插件共用
     - { name: 'Oblivion', artist: 'TheFatRat', url: '/songs/TheFatRat&Lola Blanc - Oblivion.flac', cover: '/img/Oblivion.jpeg' }
 
 version:  # 主题版本相关
-  check: false  # 每次生成页面后，检测主题是否为最新版本
+  check: true  # 每次生成页面后，检测主题是否为最新版本
 
 #---------------------------
 # 页头

@@ -1,4 +1,3 @@
----
 title: k8s+docker+harbor+jenkins+sonarqube搭建方案
 author: kuroneko
 tags:
@@ -18,7 +17,7 @@ DevOps (一)
 ##### 一,环境准备
 
 |      ip           | hostname| centos | remark |
-| :-----------: | :-----------:  | :--------: |:---------:|
+| :-----------: | :-----------:  | :--------: |:---------|
 | ------------  | master69 |  7.8        | master node ，nfs|
 | ------------  | node125   |  7.8        |worker node|
 | ------------  |  node14    |  7.8         |worker node|
