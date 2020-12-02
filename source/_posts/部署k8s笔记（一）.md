@@ -23,3 +23,11 @@ The connection to the server localhost:8080 was refused - did you specify the ri
 ```
 scp  /etc/kubernetes/admin.conf  user@IP_address:/etc/kubernetes/admin.conf
 ```
+加入环境变量（注意要英文状态下的<font color=red>双引号</font>,不知道为啥markdown显示为中文状态下的双引号，自己注意替换）
+```
+echo “export KUBECONFIG=/etc/kubernetes/admin.conf” >> ~/.bash_profile
+```
+使环境变量配置生效
+```
+source ~/.bash_profile
+```

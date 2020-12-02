@@ -21,8 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="064aeac2-d182-4ff8-8964-d4c34fbd948a" name="Default Changelist" comment="keep one's diary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/fluid_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/fluid_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/k8s-docker-harbor-jenkins-sonarqube搭建方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/k8s-docker-harbor-jenkins-sonarqube搭建方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/docker创建镜像记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/docker创建镜像记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/fist.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/fist.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/部署k8s笔记（一）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/部署k8s笔记（一）.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -114,6 +115,8 @@
       <workItem from="1605492546132" duration="14506000" />
       <workItem from="1605516699144" duration="5980000" />
       <workItem from="1605574955183" duration="2319000" />
+      <workItem from="1606895599572" duration="1891000" />
+      <workItem from="1606898674503" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础">
       <created>1597069836347</created>
@@ -280,27 +283,6 @@
     <MESSAGE value="add_fix_gitalk" />
     <MESSAGE value="keep one's diary" />
     <option name="LAST_COMMIT_MESSAGE" value="keep one's diary" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="396" y="108" width="992" height="736" key="SettingsEditor" timestamp="1604544565847">
-      <screen x="0" y="36" width="1920" height="1044" />
-    </state>
-    <state x="396" y="103" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1597068374985" />
-    <state x="396" y="108" width="992" height="736" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1604544565847" />
-    <state x="419" y="193" key="Vcs.Push.Dialog.v2" timestamp="1605496615999">
-      <screen x="0" y="36" width="1920" height="1044" />
-    </state>
-    <state x="419" y="156" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602322755036" />
-    <state x="419" y="188" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1597069842536" />
-    <state x="419" y="193" key="Vcs.Push.Dialog.v2/0.36.1920.1044@0.36.1920.1044" timestamp="1605496615999" />
-    <state x="488" y="179" width="895" height="685" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605517189287">
-      <screen x="0" y="36" width="1920" height="1044" />
-    </state>
-    <state x="488" y="179" width="895" height="685" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.36.1920.1044@0.36.1920.1044" timestamp="1605517189287" />
-    <state x="842" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602321866662">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="842" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602321866662" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

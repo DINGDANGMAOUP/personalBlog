@@ -1,4 +1,3 @@
----
 title: docker创建镜像记录
 author: kuroneko
 tags:
@@ -15,8 +14,8 @@ date: 2020-11-16 15:11:00
 ### docker
 | 容器    | 脚本                                  | 备注 |
 | :------: | :------------------------------------------------------------| :----:|
-| mysql   | docker run --name mysql8 --restart=always -v /home/kuroneko/DockerData/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root -itd mysql:8.0.21 |      |
-| redis   | docker run -v /home/kuroneko/DockerData/redis/conf/redis.conf:/usr/local/etc/redis/redis.conf -p 127.0.0.1:6379:6379 --restart=always -itd --name redis redis redis-server /usr/local/etc/redis/redis.conf |      |
+| mysql   | docker run --name mysql8 --restart=always -v /home/kuroneko/DockerData/mysql:/var/lib/mysql  -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -itd mysql:latest |      |
+| redis   | docker run -v /home/kuroneko/DockerData/redis/conf/redis.conf:/usr/local/etc/redis/redis.conf -p 6379:6379 --restart=always -itd --name redis redis redis-server /usr/local/etc/redis/redis.conf |      |
 | netdata |                                  如下                           |      |
 
 
